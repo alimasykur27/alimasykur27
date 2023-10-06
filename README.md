@@ -23,13 +23,13 @@ I'm a passionate [Your Profession] based in [Your Location]. I love [Your Intere
 - Website: [Your Personal Website or Blog]
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimasykur27&show_icons=true&count_private=true&hide=contribs)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alimasykur27&layout=compact)
 
 ## Visitors
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=alimasykur27.alimasykur27)
 
 Feel free to customize this template with your information, and add or remove sections as needed. You can use markdown syntax to format the content. Once you've created or updated your `README.md` file, it will be displayed on your GitHub profile.
 
