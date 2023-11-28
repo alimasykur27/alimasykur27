@@ -1,12 +1,12 @@
 # Hello, I'm Ali! 👋
 
 ## About Me
-I'm a passionate [Your Profession] based in [Your Location]. I love [Your Interests/Hobbies] and enjoy exploring new technologies.
+I'm a passionate Backend Engineer at Bukit Vista Bali. I love Cyber Security, AI and Cloud Computing and enjoy exploring new technologies.
 
 ## Skills
-- Programming Languages: [List of Programming Languages]
-- Web Development: [List of Web Development Technologies]
-- Tools: [List of Tools and Technologies]
+- Programming Languages: C/C++, JavaScript, Python, PHP
+- Web Development: Node.js, Docker, MySQL, Google Cloud Platform
+- Tools: VSCode, Postman, Docker Desktop
 
 ## Projects
 ### Project 1
@@ -18,9 +18,8 @@ I'm a passionate [Your Profession] based in [Your Location]. I love [Your Intere
 - GitHub: [Link to GitHub Repository]
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: https://www.linkedin.com/in/ali-masykur/
 - Twitter: [Your Twitter Profile]
-- Website: [Your Personal Website or Blog]
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimasykur27&show_icons=true&count_private=true&hide=contribs)
