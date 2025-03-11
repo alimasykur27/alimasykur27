@@ -10,8 +10,7 @@ I'm a passionate Backend Engineer at Bukit Vista Bali. I love Cyber Security, AI
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/ali-masykur/
-- Twitter: [Your Twitter Profile]
-
+  
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimasykur27&show_icons=true&count_private=true&hide=contribs)
 
